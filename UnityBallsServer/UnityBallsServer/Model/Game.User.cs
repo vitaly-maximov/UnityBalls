@@ -1,6 +1,6 @@
 ﻿using UnityBallsCore.Model;
 
-namespace TestSignalR
+namespace UnityBallsServer.Model
 {
     internal partial class Game
     {

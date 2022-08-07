@@ -3,9 +3,8 @@ using UnityBallsCore.Command;
 using UnityBallsCore.Common;
 using UnityBallsCore.Message;
 using UnityBallsCore.Model;
-using UnityBallsServer.Model;
 
-namespace TestSignalR
+namespace UnityBallsServer.Model
 {
     internal partial class Game : IGame
     {

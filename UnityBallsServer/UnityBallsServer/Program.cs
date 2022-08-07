@@ -1,4 +1,3 @@
-using TestSignalR;
 using UnityBallsServer;
 using UnityBallsServer.Model;
 
